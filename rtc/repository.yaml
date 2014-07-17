@@ -1,2 +1,4 @@
 ARDrone: {description: '', git: 'https://github.com/sugarsweetrobotics/ARDrone.git',
-  hash: ec60fa6a24cbe6b1c6237408f29427d952100f80}
+  hash: 41b78798b6eadeca2e5728c323f1592b05492151}
+ARDroneTest: {description: '', git: 'https://github.com/sugarsweetrobotics/ARDroneTest.git',
+  hash: e16a6b2c1e1f07148de86c02606ce4099a8f0eeb}
